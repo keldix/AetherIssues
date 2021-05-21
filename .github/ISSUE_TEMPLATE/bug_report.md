@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Server (please complete the following information):**
  - Server: [e.g. Aether, Hemera, Nyx, Erebus]
  - Date and Time: [e.g. 30/04/1777 12:59]
 
